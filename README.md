@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edvig</h1>
-<h3 align="center">A backend developer with open heart and passion for coding</h3>
+<h3 align="center">A backend developer with open mind and passion for coding</h3>
 
 - 🌱 I’m currently learning **Golang and Symfony**
 
