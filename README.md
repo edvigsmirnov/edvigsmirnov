@@ -1,22 +1,19 @@
 <h1 align="center">Hi 👋, I'm Edvig</h1>
 <h3 align="center">A backend developer with open mind and passion for coding</h3>
 
-- 🌱 I’m currently learning **Golang and Symfony**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **PHP, OOP, MVC**
 
-- 📫 How to reach me **smirnov.edvig@yandex.ru**
+- 📫 How to reach me **claudsix@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14yGBqBxxkXd2AbHAthBSSFk6by8UkIsyZDGtxWnjSTk/edit?usp=sharing](https://docs.google.com/document/d/14yGBqBxxkXd2AbHAthBSSFk6by8UkIsyZDGtxWnjSTk/edit?usp=sharing)
+- 📄 Know about my experiences https://docs.google.com/document/d/1PMUf6SI742osPSh9XjCwQB_YFcyqkKgObkQtS8lkyE4/edit?usp=sharing
 
 - ⚡ Fun fact **I love MUSIC. And can make music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/centor_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="centor_e" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edvig-smirnov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvig-smirnov" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/smirnov_edvig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smirnov_edvig" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/smartkiparis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smartkiparis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
