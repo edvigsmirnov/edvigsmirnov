@@ -25,6 +25,6 @@
 
 <h3 align="left">About Me:</h3>
 <p></p>- 5+ years of experience in backend development, primarily in PHP, with a strong business-aware approach.<p/>
-<p>- Currently applying my programming expertise to **C++**, implementing modern practices, advanced features, and project-based learning.<p/>
+<p>- Currently applying my programming expertise to C++, implementing modern practices, advanced features, and project-based learning.<p/>
 <p>- Rapid learner, capable of adapting to new languages, frameworks, and professional practices on the go.<p/>
-<p>- Passionate about **music**, creative projects, and gaming, bringing a unique perspective to problem-solving.<p/>
+<p>- Passionate about music, creative projects, and gaming, bringing a unique perspective to problem-solving.<p/>
